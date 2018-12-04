@@ -1,0 +1,11 @@
+E:\Dot Net\Service BUS\Slave\bin\Debug\netcoreapp2.1\Slave.deps.json
+E:\Dot Net\Service BUS\Slave\bin\Debug\netcoreapp2.1\Slave.runtimeconfig.json
+E:\Dot Net\Service BUS\Slave\bin\Debug\netcoreapp2.1\Slave.runtimeconfig.dev.json
+E:\Dot Net\Service BUS\Slave\bin\Debug\netcoreapp2.1\Slave.dll
+E:\Dot Net\Service BUS\Slave\obj\Debug\netcoreapp2.1\Slave.csproj.CoreCompileInputs.cache
+E:\Dot Net\Service BUS\Slave\obj\Debug\netcoreapp2.1\Slave.AssemblyInfoInputs.cache
+E:\Dot Net\Service BUS\Slave\obj\Debug\netcoreapp2.1\Slave.AssemblyInfo.cs
+E:\Dot Net\Service BUS\Slave\obj\Debug\netcoreapp2.1\Slave.csprojAssemblyReference.cache
+E:\Dot Net\Service BUS\Slave\bin\Debug\netcoreapp2.1\Slave.pdb
+E:\Dot Net\Service BUS\Slave\obj\Debug\netcoreapp2.1\Slave.dll
+E:\Dot Net\Service BUS\Slave\obj\Debug\netcoreapp2.1\Slave.pdb
